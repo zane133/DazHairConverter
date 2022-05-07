@@ -1,7 +1,7 @@
 bl_info = {
-    "name": "Daz Mesh Hair Converter",
-    "author": "Cinus - Modified by Jobutsu",
-    "version": (2,1,1),
+    "name": "Mesh Hair Converter",
+    "author": "Cinus",
+    "version": (2,1,0),
     "blender": (2,80,2),
     "description": "Convert mesh hair to particle hair",
     "category": "Object"}
